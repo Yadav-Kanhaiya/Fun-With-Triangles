@@ -1,0 +1,129 @@
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: grey;
+    font-family: lato;
+}
+
+h1 {
+    text-align: center;
+    background-color: #30CE88;
+    border-radius: 1rem;
+    margin: auto;
+    padding: 20px 100px 20px 100px;
+}
+
+
+
+.navigation {
+    margin: 1rem;
+    border-radius: 0.2rem;
+    display: flex;
+    background-color: #ffa658;
+    text-align: center;
+    border-radius: 0.5rem;
+    padding: 10px 150px 10px 150px;
+}
+
+a{
+    text-decoration: none;
+    font-size: large;
+    margin: auto;
+    padding: 1rem;
+}
+
+label {
+    text-align: center;
+    margin-top: 1rem;
+    font-size: larger;
+}
+
+.angle-input {
+    margin: auto;
+}
+
+input {
+    padding: 10px 110px 10px 110px;
+    background-color:#D3f5ce;
+    border-radius: 0.6rem;
+    font-size: large;
+}
+
+#is-triangle-btn {
+    margin: auto;
+    background-color: yellow;
+    padding: 10px 160px 10px 160px;
+    margin-top: 30px;
+    border-radius: 0.6rem;
+    font-size: larger;
+}
+
+.quiz-form {
+    margin: auto;
+    text-align: center;
+    font-size: larger;
+}
+
+.question-container {
+    background-color: antiquewhite;
+    padding: 0px 10px 0px 10px;
+    border-radius: 1rem;
+}
+
+#submit-answer-btn {
+    margin: auto;
+    margin-top: 2rem;
+    padding: 10px 160px 10px 160px;
+    border-radius: 0.6rem;
+    background-color: yellow;
+    font-size: larger;
+}
+
+#output {
+    margin: auto;
+    margin-top: 1rem;
+    border-radius: 0.6rem;
+    color: lightgreen;
+    font-size: x-large;
+}
+
+#hypotenuse-btn {
+    margin: auto;
+    margin-top: 2rem;
+    padding: 10px 160px 10px 160px;
+    border-radius: 0.6rem;
+    background-color: yellow;
+    font-size: large;
+}
+
+.side-input {
+    padding: 10px 130px 10px 130px;
+    border-radius: 0.6rem;
+    font-size: large;
+    margin: auto;
+}
+
+.area-input {
+    margin: 10px 130px 10px 130px;
+    border-radius: 0.6rem;
+    font-size: large;
+    margin: auto;
+}
+
+#area-btn {
+    margin: auto;
+    margin-top: 2rem;
+    padding: 10px 160px 10px 160px;
+    border-radius: 0.6rem;
+    background-color: yellow;
+    font-size: large;
+}
+
+#areaOutput {
+    margin: auto;
+    margin-top: 1rem;
+    padding: 10px 160px 10px 160px;
+    border-radius: 0.6rem;
+    color: lightgreen;
+    font-size: x-large;
+}
